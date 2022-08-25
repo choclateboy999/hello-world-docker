@@ -1,0 +1,6 @@
+---
+- hosts: k8s
+  user: root
+  tasks:
+  - name: apply service.yml
+    command: kubectl apply -f service.yml
