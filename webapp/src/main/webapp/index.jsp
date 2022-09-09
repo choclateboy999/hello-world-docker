@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>wellcome mr.Rajeshkumar have a nice day......</h1>
+    <h1>wellcome mr.Rajeshkumar have a nice day.</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
